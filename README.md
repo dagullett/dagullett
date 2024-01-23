@@ -1,4 +1,7 @@
-### Hi there 👋
+![github-header-image(2)](https://github.com/dagullett/dagullett/assets/75142644/e3ca393c-f6f5-4bfe-9c2b-e4903f1557c9)
+
+
+
 
 <!--
 **dagullett/dagullett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
