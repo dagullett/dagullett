@@ -1,7 +1,8 @@
-![github-header-image(2)](https://github.com/dagullett/dagullett/assets/75142644/e3ca393c-f6f5-4bfe-9c2b-e4903f1557c9)
+# Dustin Gullett
 
 
-
+<img align="left" alt="Splunk" width="150px" src="https://github.com/dagullett/dagullett/assets/75142644/340d8b8a-3d43-476d-872d-8bbb02b75cac"/>
+<img align="left" alt="Splunk" width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/> 
 
 <!--
 **dagullett/dagullett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
