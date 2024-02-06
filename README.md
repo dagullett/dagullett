@@ -36,15 +36,14 @@
 | [SOC Automation Lab](https://github.com/dagullett/SOC-Automation)          | Security Automation with Shuffle SOAR, Incident Response Planning and Execution, TheHive Case Management      |
 | [Honey Pot Heat Map](https://github.com/dagullett/Wazuh-HoneyPot-Heat-Map) | SIEM Implementation, Log Analysis, and Graphic Dashboard                                                      |
 
-<h2>🛠 Languages & Tools</h2>
+<h2>Tools and Languages</h2>
 
-<img align="left" alt="Splunk" width="140px" style="padding-right:10px;" src="https://github.com/dagullett/dagullett/assets/75142644/340d8b8a-3d43-476d-872d-8bbb02b75cac"/>
-<img align="left" alt="Digital Ocean" width="60px" style="padding-right:10px;" src="https://github.com/dagullett/dagullett/assets/75142644/d1d0757c-08b6-4578-9615-966787fbda5c"/>
-<img align="left" alt="Azure" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/> 
-<img align="left" alt="Wazuh" width="40px" style="padding-right:10px;" src="https://github.com/dagullett/dagullett/assets/75142644/3881489c-145f-4f3e-9d3a-61c2c3700194"/>
-<img align="left" alt="theHive" width="40px" style="padding-right:10px;" src="https://github.com/dagullett/dagullett/assets/75142644/1972dce6-e146-49c0-b26d-2b12d0d629d9"/>
-<img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img src="https://img.shields.io/badge/-Wazuh-2E3134?&style=for-the-badge&logo=Wazuh&logoColor=white" />
-<br clear="left">
+<div>
+<img src="https://img.shields.io/badge/-Wazuh-3595F9?&style=for-the-badge&logo=Wazuh&logoColor=black"/>
+<img src="https://img.shields.io/badge/-theHive-E9CF42?&style=for-the-badge&logo=theHive&logoColor=white"/> 
+<img src="https://img.shields.io/badge/-Azure-0089D6?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white"/>
+<img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)"/>
+<img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white"/>
+</div>
 
 </body>
