@@ -17,6 +17,8 @@
         I am a Cyber Security Analyst looking to break into the Cyber Security industry. I build real-world scenarios in lab environments to learn the ins and outs of tools necessary to analyze threats and mitigate future incidents. When I am not actively gaining hands-on experience with tools such as Sentinel, Splunk, Wazuh, or Azure, I am studying to become more knowledgeable in the Cyber Security space.
 </p>
 
+<a href="https://linkedin.com/dagullett"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 <h2>Certifications</h2>
 
 <img align="left" alt="Google Cyber Security Certification" width="100px" src="https://github.com/dagullett/dagullett/assets/75142644/34904b45-84e6-4faa-86fc-dc8f79220178" style="padding-right:10px;"/>
