@@ -29,9 +29,12 @@
 
 <h2> Projects</h2>
 
-- <b>Cyber Security Labs</b>
-  - [SOC Automation Lab](https://github.com/dagullett/SOC-Automation)
-  - [Honey Pot Heat Map](https://github.com/dagullett/Wazuh-HoneyPot-Heat-Map)
+<b>Cyber Security Labs</b>
+
+| Project                                                                    | Skills
+|----------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
+| [SOC Automation Lab](https://github.com/dagullett/SOC-Automation)          | Security Automation with Shuffle SOAR, Incident Response Planning and Execution, TheHive Case Management      |
+| [Honey Pot Heat Map](https://github.com/dagullett/Wazuh-HoneyPot-Heat-Map) | SIEM Implementation, Log Analysis, and Graphic Dashboard                                                      |
 
 <h2>🛠 Languages & Tools</h2>
 
@@ -41,7 +44,7 @@
 <img align="left" alt="Wazuh" width="40px" style="padding-right:10px;" src="https://github.com/dagullett/dagullett/assets/75142644/3881489c-145f-4f3e-9d3a-61c2c3700194"/>
 <img align="left" alt="theHive" width="40px" style="padding-right:10px;" src="https://github.com/dagullett/dagullett/assets/75142644/1972dce6-e146-49c0-b26d-2b12d0d629d9"/>
 <img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-
+<img src="https://img.shields.io/badge/-Wazuh-2E3134?&style=for-the-badge&logo=Wazuh&logoColor=white" />
 <br clear="left">
 
 </body>
