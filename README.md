@@ -29,6 +29,7 @@
 
 - <b>Cyber Security Labs</b>
   - [SOC Automation Lab](https://github.com/dagullett/SOC-Automation)
+  - [Honey Pot Heat Map](https://github.com/dagullett/Wazuh-HoneyPot-Heat-Map)
 
 <h2>🛠 Languages & Tools</h2>
 
