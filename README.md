@@ -35,6 +35,7 @@
 |----------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
 | [SOC Automation Lab](https://github.com/dagullett/SOC-Automation)          | Security Automation with Shuffle SOAR, Incident Response Planning and Execution, TheHive Case Management      |
 | [Honey Pot Heat Map](https://github.com/dagullett/Wazuh-HoneyPot-Heat-Map) | SIEM Implementation, Log Analysis, and Graphic Dashboard                                                      |
+| [Phishing Analysis](https://github.com/dagullett/Spam-Email-Analysis)      | Phishing Analysis, Phishing Awareness, Forensic Investigation, Cisco Talos                                    |
 
 <h2>Tools and Languages</h2>
 
