@@ -37,16 +37,37 @@
 | [Honey Pot Heat Map](https://github.com/dagullett/Wazuh-HoneyPot-Heat-Map) | SIEM Implementation, Log Analysis, and Graphic Dashboard                                                      |
 | [Phishing Analysis](https://github.com/dagullett/Spam-Email-Analysis)      | Phishing Analysis, Phishing Awareness, Forensic Investigation, Cisco Talos                                    |
 
-<h2>Tools and Languages</h2>
+<h2>Cyber Security Tools</h2>
 
 <div>
 <img src="https://img.shields.io/badge/-Wazuh-3595F9?&style=for-the-badge&logo=Wazuh&logoColor=black"/>
 <img src="https://img.shields.io/badge/-theHive-E9CF42?&style=for-the-badge&logo=theHive&logoColor=white"/> 
+<img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white"/>
+
+</div>
+
+<h2>Cloud Computing</h2>
+
+<div>
+
 <img src="https://img.shields.io/badge/-Azure-0089D6?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white"/>
 <img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)"/>
-<img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white"/>
+
+</div>
+
+<h2>Languages</h2>
+
+<div>
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+
+</div>
+
+<h2>Operating Systems</h2>
+
+<div>
+
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 
