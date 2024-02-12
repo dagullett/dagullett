@@ -8,7 +8,6 @@
 
 <body>
 
-
 <h1>🔐 Dustin Gullett</h1>
 
 <h3><code>Cyber Security Analyst</code></h3>
