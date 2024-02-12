@@ -55,6 +55,15 @@
 
 </div>
 
+<h2>Networking</h2>
+
+<div>
+
+<img src="https://img.shields.io/badge/Wireshark-0052ff?&style=for-the-badge&logo=Wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/NetworkMiner-6610f2?style=for-the-badge&logo=NetworkMiner&logoColor=white)"/>
+
+</div>
+
 <h2>Languages</h2>
 
 <div>
