@@ -43,6 +43,7 @@
 <img src="https://img.shields.io/badge/-theHive-E9CF42?&style=for-the-badge&logo=theHive&logoColor=white"/> 
 <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CyberChef-4cae4c?&style=for-the-badge&logo=CyberChef&logoColor=white"/>
+<img src="https://img.shields.io/badge/-ElasticStack-20c997?&style=for-the-badge&logo=ElasticStack&logoColor=white"/>
 
 </div>
 
