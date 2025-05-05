@@ -28,7 +28,7 @@
 <img align="left" alt="CompTIA A+" width="75px" src="https://github.com/user-attachments/assets/daec2c5d-c00b-44fe-894e-9726ff6b5704" style="padding-right:10px;"/>
 <img align="left" alt="CompTIA Network+" width="75px" src="https://github.com/user-attachments/assets/594559dc-0ec3-43de-9a1b-697565ce6ff2" style="padding-right:10px;"/>
 <img align="left" alt="CompTIA Security+" width="75px" src="https://github.com/user-attachments/assets/fc94fb2c-789d-4349-b1a7-e6cd70f08eb0" style="padding-right:10px;"/>
-<img align="left" alt="ITIL4 Foundations" width="75px" src="!https://github.com/user-attachments/assets/0a582907-eb18-4ea6-a2bc-89b920b1f405" style="padding-right:10px;"/>
+<img align="left" alt="ITIL4 Foundations" width="75px" src="https://github.com/user-attachments/assets/0a582907-eb18-4ea6-a2bc-89b920b1f405" style="padding-right:10px;"/>
 <br clear="left">
 
 <h2> Projects</h2>
