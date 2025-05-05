@@ -21,13 +21,14 @@
 <h2>Certifications</h2>
 
 <img align="left" alt="Google Cyber Security Certification" width="100px" src="https://github.com/dagullett/dagullett/assets/75142644/34904b45-84e6-4faa-86fc-dc8f79220178" style="padding-right:10px;"/>
-<img align="left" alt="Google Cyber Security Certification" width="75px" src="https://github.com/dagullett/dagullett/assets/75142644/b7f589ff-a7e7-4a77-b0bb-89acc2a2b48f" style="padding-right:10px;"/>
-<img align="left" alt="Google Cyber Security Certification" width="75px" src="https://github.com/dagullett/dagullett/assets/75142644/9b5cbe76-fec0-4f38-b4d2-aabfec20773b" style="padding-right:10px;"/>
+<img align="left" alt="SC-900 Microsoft Security" width="75px" src="https://github.com/dagullett/dagullett/assets/75142644/b7f589ff-a7e7-4a77-b0bb-89acc2a2b48f" style="padding-right:10px;"/>
+<img align="left" alt="Microsoft Azure Fundamentals" width="75px" src="https://github.com/dagullett/dagullett/assets/75142644/9b5cbe76-fec0-4f38-b4d2-aabfec20773b" style="padding-right:10px;"/>
 <img align="left" alt="Linux Essentials" width="75px" src="https://github.com/user-attachments/assets/219f304c-6db7-48eb-b621-f2656b365dc2" style="padding-right:10px;"/>
-<img align="left" alt="Google Cyber Security Certification" width="75px" src="https://github.com/user-attachments/assets/9dbd1521-a029-4094-b66d-a9de064d7234" style="padding-right:10px;"/>
-<img align="left" alt="Google Cyber Security Certification" width="75px" src="https://github.com/user-attachments/assets/daec2c5d-c00b-44fe-894e-9726ff6b5704" style="padding-right:10px;"/>
-<img align="left" alt="Google Cyber Security Certification" width="75px" src="https://github.com/user-attachments/assets/594559dc-0ec3-43de-9a1b-697565ce6ff2" style="padding-right:10px;"/>
-<img align="left" alt="Google Cyber Security Certification" width="75px" src="https://github.com/user-attachments/assets/fc94fb2c-789d-4349-b1a7-e6cd70f08eb0" style="padding-right:10px;"/>
+<img align="left" alt="ISC2 Certified in Cybersecurity" width="75px" src="https://github.com/user-attachments/assets/9dbd1521-a029-4094-b66d-a9de064d7234" style="padding-right:10px;"/>
+<img align="left" alt="CompTIA A+" width="75px" src="https://github.com/user-attachments/assets/daec2c5d-c00b-44fe-894e-9726ff6b5704" style="padding-right:10px;"/>
+<img align="left" alt="CompTIA Network+" width="75px" src="https://github.com/user-attachments/assets/594559dc-0ec3-43de-9a1b-697565ce6ff2" style="padding-right:10px;"/>
+<img align="left" alt="CompTIA Security+" width="75px" src="https://github.com/user-attachments/assets/fc94fb2c-789d-4349-b1a7-e6cd70f08eb0" style="padding-right:10px;"/>
+<img align="left" alt="ITIL4 Foundations" width="75px" src="!https://github.com/user-attachments/assets/0a582907-eb18-4ea6-a2bc-89b920b1f405" style="padding-right:10px;"/>
 <br clear="left">
 
 <h2> Projects</h2>
